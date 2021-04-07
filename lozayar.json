@@ -1,0 +1,13 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["670334968689328177"],
+        "ACTIVITY_TEXT": "Ψ V Λ L E R O N Ψ",
+        "GUILD_ID": "825843920255713312",
+        "VOICE_CHANNEL": "829065456517382244",
+        "MIN_STAFF_ROLE": "829065382487785492"
+    },
+    "FILES": {
+        "WELCOME": "ses/hoşgelldinn.mp3",
+        "STAFF": "ses/yetkili.mp3"
+    }
+} 
